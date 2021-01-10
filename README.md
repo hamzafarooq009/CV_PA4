@@ -23,8 +23,19 @@ Task 3: Perfroming object detection on all images in the PETS dataset(provided t
 
 Now when you have succesfully executed the code for object detection, we want you to perform object dection on all images in the PETS dataset provided to you and save them in a seperate folder in your working directory. In this part you will perform object detection in each of the images from different camera views in the PETS dataset. You have been given 10 images per view and 3 views in total.
 
+![7037b988-a5f7-4c00-8cef-df934730b1e0](https://user-images.githubusercontent.com/46634351/104126055-501c1580-537c-11eb-8ad7-16aa44fb620b.jpg)
+
+
+![6c6ef3c6-00a1-4ae1-90cd-1f4454d204e8](https://user-images.githubusercontent.com/46634351/104126069-6a55f380-537c-11eb-9c72-841f1fabc02a.jpg)
+
 Task 4: Viewing detected object location on Top View/Satellite view
 In this part we will use the output from the previous part to project the location of detected objects on the top view/satellite view so that we can analyze all the objects present in the scene in one single view.
+
+![a796f4fe-135b-40ec-91b9-867d48f59491](https://user-images.githubusercontent.com/46634351/104126082-822d7780-537c-11eb-9903-757529cde61e.jpg)
+
+
+![d2ed77ef-5780-48bb-b338-318733a7733d](https://user-images.githubusercontent.com/46634351/104126093-91142a00-537c-11eb-91a1-53a8ef48b600.jpg)
+
 
 In this task you will :
 
