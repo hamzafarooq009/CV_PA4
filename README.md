@@ -17,7 +17,7 @@ Task 2: Visualizing extracted predictions as bounding boxes
 
 We have extracted predictions from the object detctor that you can observe are very accurate too. Now we need to visualize these predictions as bounding boxes on the input image. For this part you are supposed to wite a function "draw_boxes" to visualize your predictions as bounding boxes. Inputs to this function will be outputs of the function "get_boxes". This function should also save the image along with the bounding boxes in your current working directory. Also show the predicted label and score for each bounding box. Sample output is shown to you.
 
-![alt text](https://ibb.co/q5QsmjD)
+![WhatsApp Image 2021-01-10 at 7 35 38 PM](https://user-images.githubusercontent.com/46634351/104126037-2662ee80-537c-11eb-95d5-c7e1a0d2680c.jpeg)
 
 Task 3: Perfroming object detection on all images in the PETS dataset(provided to you)
 
