@@ -1,5 +1,3 @@
-# CV_PA4
-
 
 Run the pre-trained YOLO-V3 object detector on a sample image.
 Run the pre-trained YOLO-V3 object detctor on images from PETS dataset.
